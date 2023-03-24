@@ -2,7 +2,7 @@
 This is an example Checkout integration using Deno. This is based on 
 https://stripe.com/docs/payments/accept-a-payment?integration=checkout.
 
-**Note that this requires Deno v1.16 or greater.**
+**Note that this requires Deno v1.28 or greater.**
 
 ## Setup
 

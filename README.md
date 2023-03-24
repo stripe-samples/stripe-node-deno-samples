@@ -2,7 +2,7 @@
 
 This is a collection of samples for Deno applications which use `stripe-node`.
 
-**Note that these require Deno v1.16 or greater.**
+**Note that these require Deno v1.28 or greater.**
 
 The following samples are available: 
 
