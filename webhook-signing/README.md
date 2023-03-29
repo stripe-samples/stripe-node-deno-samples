@@ -1,7 +1,7 @@
 # Webhook Signing
 This is an example of receiving and verifying a Webhook using Deno.
 
-**Note that this requires Deno v1.16 or greater.**
+**Note that this requires Deno v1.28 or greater.**
 
 ## Setup
 
